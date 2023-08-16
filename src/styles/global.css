@@ -3,6 +3,19 @@ html {
     font-family: sans-serif;
 }
 
+/* THEME dark | light */
+
+html.dark {
+    background-color: #0d0950;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
+/* In General */
+
 body {
     margin: 0 auto;
     width: 100%;
